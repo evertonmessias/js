@@ -22,6 +22,6 @@
   "homepage": "http://ic.unicamp.br/~everton",
   "devDependencies": {
     "webpack": "^4.29.5",
-    "webpack-cli": "^3.2.3"
+    "webpack-cli": "^3.3.12"
   }
 }
