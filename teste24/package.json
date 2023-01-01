@@ -21,7 +21,7 @@
   "author": "Everton Messias",
   "homepage": "http://ic.unicamp.br/~everton",
   "devDependencies": {
-    "webpack": "^4.29.5",
-    "webpack-cli": "^3.2.3"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   }
 }
